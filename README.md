@@ -23,7 +23,7 @@ Add your timetable using <td> tag.
 Execute the program using runserver command.
 
 # PROGRAM
-
+....
 <!DOCTYPE html>
 <html style="color: rgb(235, 252, 9);font-weight: bolder ;">
     <p style="font-size: 130%;margin-left: 560px;font-family: sans-serif;color: aquamarine;text-shadow: 20px;">
@@ -174,11 +174,11 @@ Execute the program using runserver command.
              </style>
 
 
-        </body>
-    </table>
+ </body>
+</table>
 </center>
 </html>
-
+....
 
 # OUTPUT
 ![alt text](<Screenshot 2024-12-02 125539.png>)
