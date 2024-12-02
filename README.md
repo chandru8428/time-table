@@ -25,7 +25,7 @@ Execute the program using runserver command.
 # PROGRAM
 ....
 <!DOCTYPE html>
-<html style="color: rgb(235, 252, 9);font-weight: bolder ;">
+     <html style="color: rgb(235, 252, 9);font-weight: bolder ;">
     <p style="font-size: 130%;margin-left: 560px;font-family: sans-serif;color: aquamarine;text-shadow: 20px;">
          SLOT TIMETABLE - CHANDRU.K(24013579)</p>
     <center>
@@ -33,7 +33,7 @@ Execute the program using runserver command.
     </center>
     <center>
    
-<table border="8" style="align-border: center; " cellpadding="20px">
+    <table border="8" style="align-border: center; " cellpadding="20px">
         <body>
             <tr style=" background-color: rgb(240, 147, 33);">
                 <th>TIME\<BR>DAY</th>
@@ -113,7 +113,7 @@ Execute the program using runserver command.
              </tr>
              <br>
 
-<table border="5" cellpadding="8" cellspacing="2" align="center" style="margin-top:100px ;border-radius: 5px;font-weight: bolder;">
+    <table border="5" cellpadding="8" cellspacing="2" align="center" style="margin-top:100px ;border-radius: 5px;font-weight: bolder;">
         <tr style="background-color: rgb(240, 147, 33);">
             <th>
                 <h4>S.NO</h4>
@@ -154,13 +154,10 @@ Execute the program using runserver command.
             <th  style="background-color: rgb(240, 147, 33);">6.</th>
             <td>6J1-1</td>
             <td>FUNDAMENDALS OF WEB APPLICATION DEVELOPMENT </td>
- </tr>
-</table>
-</body>
+     </tr>
 
-</html>
-             <style>
-               table {
+    <style>
+         table {
                   background-image: url("/static/book.png"); border-image-width: 15cm;
                border-color: rgb(236, 14, 14);
             border-radius: 28px; table-layout: initial;}
@@ -173,11 +170,10 @@ Execute the program using runserver command.
              }
              </style>
 
-
- </body>
-</table>
-</center>
-</html>
+    </body>
+    </table>
+    </center>
+    </html>
 ....
 
 # OUTPUT
